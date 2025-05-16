@@ -1,0 +1,13 @@
+name: csck503-ema
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tensorflow
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - pyproj
+  - matplotlib
+  - xgboost
